@@ -1,0 +1,9 @@
+{
+  "name": "Hubcloud 4K Provider",
+  "description": "Watch 4K movies from hubcloud.foo",
+  "version": 1,
+  "pluginUrl": "https://raw.githubusercontent.com/jilariya47-star/cloudstream-4khdhub-plugin/main/plugin.json",
+  "author": "jilariya47",
+  "language": "hi-en",
+  "iconUrl": "https://i.imgur.com/4KHubIcon.png"
+}
