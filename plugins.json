@@ -1,9 +1,9 @@
 [
   {
-    "name": "4khdHub - Hubcloud Movies",
+    "name": "4KHDHub",
     "url": "https://raw.githubusercontent.com/jilariya47-star/cloudstream-4khdhub-plugin/main/4khdhub.cs3",
-    "description": "Watch 4K movies from hubcloud.foo directly in CloudStream",
+    "description": "Watch movies and series from 4khdhub.dad directly in CloudStream",
     "version": 1,
-    "repositoryUrl": "https://github.com/jilariya47-star/my-cloudstream-repo"
+    "repositoryUrl": "https://github.com/jilariya47-star/cloudstream-4khdhub-plugin"
   }
 ]
